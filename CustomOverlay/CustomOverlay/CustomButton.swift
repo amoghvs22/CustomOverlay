@@ -1,11 +1,3 @@
-//
-//  PushButton.swift
-//  OverlayCustom
-//
-//  Created by Mac Mini on 08/10/18.
-//  Copyright © 2018 Mac Mini. All rights reserved.
-//
-
 import UIKit
 
 @IBDesignable
